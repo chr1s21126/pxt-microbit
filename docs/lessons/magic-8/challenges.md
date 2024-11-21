@@ -1,3 +1,4 @@
+[edited by Chris]
 # magic 8 challenges
 
 Coding challenges for the magic 8 tutorial
@@ -18,6 +19,12 @@ input.onGesture(Gesture.Shake, () =>  {
         basic.showString("NO")
     } else {
         basic.showString("I DON'T KNOW")
+ } else if {
+        basic.showString("WHAT DO YOU THINK?")
+ } else {
+        basic.showString("I tHINK SO")
+ } else if{
+        basic.showString("NAH")
 
     }
     basic.showNumber(8)
